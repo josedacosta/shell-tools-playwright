@@ -1,0 +1,14 @@
+# CODEOWNERS - Automatically request reviews from code owners
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owner for everything
+* @jose
+
+# Scripts require owner review
+/tools/ @jose
+
+# Documentation
+/*.md @jose
+
+# GitHub configuration
+/.github/ @jose

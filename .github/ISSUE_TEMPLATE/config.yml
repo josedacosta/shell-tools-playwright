@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Playwright Documentation
+    url: https://playwright.dev/docs/intro
+    about: Official Playwright documentation
+  - name: Playwright GitHub
+    url: https://github.com/microsoft/playwright
+    about: For Playwright-specific issues (not this tool)
