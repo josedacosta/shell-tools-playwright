@@ -1,10 +1,10 @@
 <div align="center">
 
 ```
-█▀█ █   █▀█ █ █ █ █ █ █▀█ █ █▀▀ █ █ ▀█▀
-█▀▀ █   █▀█  █  ▀▄▀▄▀ █▀▄ █ █ █ █▀█  █
-▀   ▀▀▀ ▀ ▀  ▀   ▀ ▀  ▀ ▀ ▀ ▀▀▀ ▀ ▀  ▀
-            ─── TOOLS ───
+                  █▀█ █   █▀█ █ █ █ █ █ █▀█ █ █▀▀ █ █ ▀█▀
+                  █▀▀ █   █▀█  █  ▀▄▀▄▀ █▀▄ █ █ █ █▀█  █
+                  ▀   ▀▀▀ ▀ ▀  ▀   ▀ ▀  ▀ ▀ ▀ ▀▀▀ ▀ ▀  ▀
+                              ─── TOOLS ───
 ```
 
 **Deep uninstall, clean install, and find traces of Playwright on macOS**
