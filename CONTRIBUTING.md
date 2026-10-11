@@ -171,6 +171,6 @@ Types: `Add`, `Fix`, `Update`, `Remove`, `Refactor`, `Docs`
 
 - Open a GitHub Discussion
 - Check existing issues
-- Review the README and CLAUDE.md
+- Review the README and AGENTS.md
 
 Thank you for contributing!

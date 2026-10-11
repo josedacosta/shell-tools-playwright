@@ -1,4 +1,4 @@
-# CLAUDE.md - AI Guidance for shell-tools-playwright
+# AGENTS.md - AI Guidance for shell-tools-playwright
 
 This file provides context for AI assistants working on this project.
 
